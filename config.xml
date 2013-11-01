@@ -7,7 +7,7 @@
     <name>Kerro meille</name>
 
     <description>
-        The app provides several information and an Open311 public issue tracking
+        The app provides Open311 based public issue tracking for Helsinki
     </description>
 
     <author href="http://mark-a-spot.org" email="support@markaspot.org">
@@ -64,6 +64,7 @@
     <gap:splash src="resources/startup/apple-touch-startup-image-320x480.png" width="320" height="480" />
     <gap:splash src="resources/startup/apple-touch-startup-image-640x960.png" width="640" height="960" />
     <gap:splash src="resources/startup/apple-touch-startup-image-640x1136" gap:platform="ios" width="640" height="1136"/>
+    <gap:splash src="resources/startup/apple-touch-startup-image-768x1004" gap:platform="ios" width="640" height="1136"/>
     <gap:splash src="resources/startup/apple-touch-startup-image-1024x768.png" width="1024" height="768" />
     <gap:splash src="resources/startup/apple-touch-startup-image-768x1024.png" width="768" height="1024" />
 </widget>
