@@ -3,7 +3,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "de.mark-a-spot.open311-Helsinki"
-        version   = "0.1.0">
+        version   = "0.1.1">
     <name>Kerro meille</name>
 
     <description>
@@ -52,15 +52,7 @@
     <icon src="resources/icons/ios/AppIcon60x60.png"      gap:platform="ios"        width="60" height="60" />
     <icon src="resources/icons/ios/AppIcon60x60@2x.png"   gap:platform="ios"        width="120" height="120" />
     <icon src="resources/icons/ios/AppIcon76x76@2x.png"   gap:platform="ios"        width="152" height="152" />
-   <!--  <icon src="resources/icons/webos/icon-64.png"          gap:platform="webos" />
-    <icon src="resources/icons/windows-phone/icon-48.png"  gap:platform="winphone" />
-    <icon src="resources/icons/windows-phone/icon-173.png" gap:platform="winphone"   gap:role="background" /> -->
 
-    <!--<gap:splash src="res/screen/android/screen-ldpi-portrait.png"  gap:platform="android" gap:density="ldpi" />
-    <gap:splash src="res/screen/android/screen-mdpi-portrait.png"  gap:platform="android" gap:density="mdpi" />
-    <gap:splash src="res/screen/android/screen-hdpi-portrait.png"  gap:platform="android" gap:density="hdpi" />
-    <gap:splash src="res/screen/android/screen-xhdpi-portrait.png" gap:platform="android" gap:density="xhdpi" />
-    <gap:splash src="res/screen/blackberry/screen-225.png"         gap:platform="blackberry" /> -->
     <gap:splash src="resources/startup/apple-touch-startup-image-320x480.png" width="320" height="480" />
     <gap:splash src="resources/startup/apple-touch-startup-image-640x960.png" width="640" height="960" />
     <gap:splash src="resources/startup/apple-touch-startup-image-640x1136" width="640" height="1136"/>
