@@ -3,7 +3,7 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "de.mark-a-spot.open311-Helsinki"
-        version   = "0.1.1">
+        version   = "0.1.2">
     <name>Kerro meille</name>
 
     <description>
@@ -40,10 +40,7 @@
     <icon src="resources/icons/android/48.png"   gap:platform="android"    gap:density="mdpi" />
     <icon src="resources/icons/android/72.png"   gap:platform="android"    gap:density="hdpi" />
     <icon src="resources/icons/android/96.png"   gap:platform="android"    gap:density="xhdpi" />
-<!--
-    <icon src="resources/icons/blackberry/icon-80.png"     gap:platform="blackberry" />
-    <icon src="resources/icons/blackberry/icon-80.png"     gap:platform="blackberry" gap:state="hover"/>
- -->
+
     <icon src="resources/icons/ios/AppIcon29x29.png"      gap:platform="ios"        width="29" height="29" />
     <icon src="resources/icons/ios/AppIcon29x29@2x.png"   gap:platform="ios"        width="58" height="58" />
     <icon src="resources/icons/ios/AppIcon72x72.png"      gap:platform="ios"        width="72" height="72" />
@@ -55,7 +52,7 @@
 
     <gap:splash src="resources/startup/apple-touch-startup-image-320x480.png" width="320" height="480" />
     <gap:splash src="resources/startup/apple-touch-startup-image-640x960.png" width="640" height="960" />
-    <gap:splash src="resources/startup/apple-touch-startup-image-640x1136" width="640" height="1136"/>
+    <gap:splash src="resources/startup/Default_iphone5.png" width="640" height="1136"/>
     <gap:splash src="resources/startup/apple-touch-startup-image-768x1004" width="768" height="1004"/>
     <gap:splash src="resources/startup/apple-touch-startup-image-1024x768.png" width="1024" height="768" />
     <gap:splash src="resources/startup/apple-touch-startup-image-768x1024.png" width="768" height="1024" />
