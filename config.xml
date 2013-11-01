@@ -33,7 +33,7 @@
 
     <preference name="stay-in-webview" value="false" />
     <preference name="detect-data-types" value="true" />
-    <preference name="show-splash-screen-spinner" value="false" />
+    <preference name="show-splash-screen-spinner" value="true" />
 
     <icon src="icon.png" />
     <icon src="resources/icons/android/36.png"   gap:platform="android"    gap:density="ldpi" />
